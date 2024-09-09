@@ -21,4 +21,4 @@
 * [Word Press](https://soft-madeleine-b3ad0c.netlify.app/) (*HTML, CSS*)
 Java Scrip*t)
 
-* [Food](https://resilient-youtiao-8b2fd2.netlify.app/) (*Java Script*)
+* [Food](https://dzichonka.github.io/Food/#) (*Java Script*)
