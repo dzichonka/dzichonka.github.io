@@ -4,6 +4,8 @@
 
 * [CV (udemy)](https://dzichonka.github.io/portfolio/) (*HTML, CSS (Scss), Java Script*)
 
+* [CSS Meme Slide](https://dzichonka.github.io/portfolio/) (*HTML, CSS (all functionality without any JS)*)
+
 * [Shelter](https://rolling-scopes-school.github.io/dzichonka-JSFEPRESCHOOL2024Q2/shelter/) (*HTML, CSS (Scss), Java Script*)
 
 * [Coffee House](https://rolling-scopes-school.github.io/dzichonka-JSFE2023Q4/coffee-house/) (*HTML, CSS (Scss), Java Script*)
