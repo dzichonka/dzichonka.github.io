@@ -4,11 +4,13 @@
 
 * [CV (udemy)](https://dzichonka.github.io/portfolio/) (*HTML, CSS (Scss), Java Script*)
 
-* [CSS Meme Slide](https://dzichonka.github.io/portfolio/) (*HTML, CSS (all functionality without any JS)*)
+* [Image Gallery](https://dzichonka.github.io/imageGallery/) (*HTML, CSS, Java Script, API*)
 
 * [Shelter](https://rolling-scopes-school.github.io/dzichonka-JSFEPRESCHOOL2024Q2/shelter/) (*HTML, CSS (Scss), Java Script*)
 
-* [Desktop Audio Player](https://rolling-scopes-school.github.io/dzichonka-JSFEPRESCHOOL2024Q2/audio-player/) (*HTML, CSS (Scss), Java Script*)
+* [Desktop Audio Player](https://dzichonka.github.io/audioplayer/) (*HTML, CSS (Scss), Java Script*)
+
+* [CSS Meme Slide](https://dzichonka.github.io/portfolio/) (*HTML, CSS (all functionality without any JS)*)
 
 * [Coffee House](https://rolling-scopes-school.github.io/dzichonka-JSFE2023Q4/coffee-house/) (*HTML, CSS (Scss), Java Script*)
 
