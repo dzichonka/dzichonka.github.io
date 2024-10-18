@@ -2,31 +2,58 @@
 
 ## PROJECTS
 
-* [CV Anna Vasilevich](https://dzichonka.github.io/portfolio/) (*HTML, CSS (Scss), Java Script*)
+* [CV Anna Vasilevich](https://dzichonka.github.io/portfolio/)
 
-* [Shelter](https://rolling-scopes-school.github.io/dzichonka-JSFEPRESCHOOL2024Q2/shelter/) (*HTML, CSS (Scss), Java Script*)
+*A personal resume landing page designed with a responsive layout using CSS grids. The page includes a contact form for seamless communication. It’s fully optimized for mobile and desktop, ensuring a smooth user experience across all devices.*
+
+* [Shelter](https://rolling-scopes-school.github.io/dzichonka-JSFEPRESCHOOL2024Q2/shelter/)
+
+*A responsive multipage website for an animal shelter, built with CSS and JavaScript. The site features a card-based layout for showcasing animals, with interactive modals that provide detailed information. The design is optimized for different screen sizes, ensuring a smooth and engaging experience on both desktop and mobile devices.*
   
-* [Audio Player](https://dzichonka.github.io/audioplayer/) (*HTML, CSS (Scss), Java Script*)
+* [Audio Player](https://dzichonka.github.io/audioplayer/)
 
-* [Image Gallery](https://dzichonka.github.io/imageGallery/) (*HTML, CSS, Java Script, API*)
+*A custom audio player with a minimalist design, built using HTML, CSS, and JavaScript. The player includes features like 'next' and 'previous' track buttons, autoplay, and a hidden playlist that can be revealed on demand. The design is responsive, ensuring smooth functionality on all devices."*
 
-* [Tic-Tac-Toe game](https://dzichonka.github.io/tic-tac-toe/) (*HTML, CSS (Scss), Java Script*)
+* [Image Gallery](https://dzichonka.github.io/imageGallery/)
 
-* [CSS Meme Slide](https://dzichonka.github.io/portfolio/) (*HTML, CSS (all functionality without any JS)*)
+*An image gallery built using JavaScript, featuring a grid layout and dynamic image fetching from an external API. The gallery is fully responsive, with a modern design and interactive modals that open larger versions of the images upon clicking. The layout adapts smoothly to different screen sizes for a seamless browsing experience.*
 
-* [Coffee House](https://rolling-scopes-school.github.io/dzichonka-JSFE2023Q4/coffee-house/) (*HTML, CSS (Scss), Java Script*)
+* [Tic-Tac-Toe game](https://dzichonka.github.io/tic-tac-toe/)
 
-* [Brooklyn Public Library](https://famous-tulumba-2dc634.netlify.app/) (*HTML, CSS (Scss), Java Script*)
+*A Tic Tac Toe game played against the computer, developed with HTML, CSS, and JavaScript. The game highlights winning combinations and utilizes local storage to save results.*
 
-* [CV (rs-shool)](https://dzichonka.github.io/rsschool-cv/) (*HTML, CSS*)
+* [CSS Meme Slide](https://dzichonka.github.io/cssMemeSlider/cssMemeSlider/)
 
-* [Food](https://dzichonka.github.io/Food/#) (*Java Script*)
+*A CSS-only meme slider that features smooth animations and a responsive design. The slider showcases a variety of memes, utilizing flexbox for layout and custom styles for a unique presentation. The project emphasizes pure CSS techniques, demonstrating creativity and interactivity without JavaScript.*
 
-* [CV (wayup)](https://luminous-kitten-cb359a.netlify.app/) (*HTML, CSS*)
+* [Coffee House](https://dzichonka.github.io/CoffeeHouse/index.html)
+  
+*A two-page presentation website for a coffee shop featuring a slider for promotions and a menu displayed with tabbed categories. Each menu item opens in a detailed modal window, allowing users to view sizes, options, and modifiers. The site is fully responsive, offering a seamless experience across all devices.*
 
-* [Run Smart](https://lucky-monstera-896089.netlify.app/) (*HTML, CSS, Java Script*)
+<!-- * [Brooklyn Public Library](https://dzichonka.github.io/library/) 
 
-* [Uber](https://superb-cannoli-ae43d1.netlify.app/) *(HTML, CSS*)
+*A landing page for a Brooklyn Public Library that features a carousel slider in the 'About' section and a fade-in/fade-out effect for book cards in 'Favorites.' The site includes user registration and login modals, storing data in localStorage, as well as profile and subscription functionalities.* -->
 
-* [Word Press](https://soft-madeleine-b3ad0c.netlify.app/) (*HTML, CSS*)
-Java Scrip*t)
+<!-- * [CV (rs-shool)](https://dzichonka.github.io/rsschool-cv/)
+
+*HTML, CSS* -->
+
+* [Food](https://dzichonka.github.io/Food/#)
+
+*An educational project for a food delivery service where I implemented various functions using an existing HTML and CSS layout. The site features interactive menu items and dynamic content updates, a contact form, a slider, a countdown timer and a calorie calculator that saves data in local storage.*
+
+<!-- * [CV (wayup)](https://luminous-kitten-cb359a.netlify.app/) 
+
+*HTML, CSS* -->
+
+<!-- * [Run Smart](https://lucky-monstera-896089.netlify.app/)
+
+*HTML, CSS, Java Script* -->
+
+<!-- * [Uber](https://superb-cannoli-ae43d1.netlify.app/)
+
+*(HTML, CSS* -->
+
+<!-- * [Word Press](https://soft-madeleine-b3ad0c.netlify.app/)
+
+*HTML, CSS, JS* -->
