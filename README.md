@@ -9,10 +9,14 @@
 * [Shelter](https://rolling-scopes-school.github.io/dzichonka-JSFEPRESCHOOL2024Q2/shelter/)
 
 *A responsive multipage website for an animal shelter, built with CSS and JavaScript. The site features a card-based layout for showcasing animals, with interactive modals that provide detailed information. The design is optimized for different screen sizes, ensuring a smooth and engaging experience on both desktop and mobile devices.*
+
+* [Christmas Shop](https://rolling-scopes-school.github.io/dzichonka-JSFE2024Q4/christmas-shop/)
+
+*A festive two-page website featuring humorous gift cards for programmers. Includes a countdown timer, custom slider, dynamic modal windows with card data fetched via API, and SCSS styling. The project was created as part of a course at Rolling Scopes School to explore modular JavaScript and responsive design techniques.*
   
 * [Audio Player](https://dzichonka.github.io/audioplayer/)
 
-*A custom audio player with a minimalist design, built using HTML, CSS, and JavaScript. The player includes features like 'next' and 'previous' track buttons, autoplay, and a hidden playlist that can be revealed on demand. The design is responsive, ensuring smooth functionality on all devices."*
+*A custom audio player with a minimalist design, built using HTML, CSS, and JavaScript. The player includes features like 'next' and 'previous' track buttons, autoplay, and a hidden playlist that can be revealed on demand. The design is responsive, ensuring smooth functionality on all devices.*
 
 * [Image Gallery](https://dzichonka.github.io/imageGallery/)
 
