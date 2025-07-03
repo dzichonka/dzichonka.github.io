@@ -4,6 +4,18 @@
 
 ### [RS School - JavaScript / Front-end Course](https://rs.school/#about-school)
 
+Completed an intensive full-stack JavaScript course at RS School, covering TypeScript, React, WebSocket, Canvas, unit testing, and CI/CD. Solved 100+ algorithmic tasks and built 10+ projects, including landing pages and complex e-commerce SPAs. Gained experience in pair programming, live coding, and code reviews.
+
+- [certificate](RSschool-JS.pdf)
+
+### [Campfre school - Taypescript + React](https://campfire-school.com/courses/polnyy-kurs-po-typescript-react)
+
+Completed a course on building scalable and type-safe web applications using TypeScript and React. Gained hands-on experience with functional components, hooks, state management, and strict typing.
+
+- [certificate](campfire-TS.pdf)
+
+### [RS School - JavaScript Preschool](https://rs.school/#about-school)
+
 Hands-on course focused on practical development. Build real projects, including a multi-page shelter website, a landing page, a music player, an image gallery with API integration, and a Tic-Tac-Toe game. Gain experience with JavaScript, DOM manipulation, APIs, and responsive design.
 
 - [certificate](RSschool-JSPreSchool.pdf)
