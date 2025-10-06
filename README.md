@@ -2,13 +2,35 @@
 
 ## PROJECTS
 
+### [REST-client](https://rest-client-app-tawny.vercel.app/en)
+
+- Postman-like Web App (Team Project) – Next.js, React, TypeScript, Zustand, Firebase Admin, Tailwind, Vitest (82% coverage)
+  Implemented a collaborative Postman-like app with request history stored in Firebase. Supports two languages, input validation with Zod, and team-oriented tooling including ESLint, Prettier, and Husky.
+  [check code](https://github.com/Boys-Not-Found/rest-client-app/pull/107)
+
+### [Rick and Morty](https://rick-and-morty-git-nextjs-ssr-annas-projects-78ce1613.vercel.app/en)
+
+- React (class → functional), Next.js, TypeScript, Zustand, TanStack Query, Tailwind, Vitest
+  Initially built as a class-based React SPA, later migrated to functional components while keeping existing tests intact. Subsequently migrated the project to Next.js. Supports two languages, light/dark themes, state management with Zustand, and data fetching with TanStack Query. Unit-tested with Vitest to ensure stability.
+  [check code](https://github.com/dzichonka/RickAndMorty/pull/7)
+
+### [Bread Club App](https://transcendent-chimera-1c5bd5.netlify.app/)
+
+- SPA with reusable modal for controlled and uncontrolled forms. Handles state management, validation, image upload (base64), passwords, autocomplete, and accessibility (close on ESC/outside click).
+  [check code](https://github.com/dzichonka/bread-club)
+
+### [Eco App](https://admirable-kitten-e0b777.netlify.app/)
+
+- Displays country data with population and ISO codes, yearly tables with CO₂ stats, search, sort, and year selector. Features column selection modal, performance optimizations with useMemo/useCallback, and Suspense for data loading.
+  [check code](https://github.com/dzichonka/eco-stats/pull/1)
+
 ### [E-Commerce](https://sorcerers-apprentices.netlify.app/)
 
 - E-commerce SPA for a pet store — final team project at RS School
   Built with React, TypeScript, Vite, and SASS by a team of 3 developers over 4 Agile sprints. The app features a dynamic product catalog, user authentication, editable profiles, smart discount logic, full cart flow, and responsive routing. Includes unit testing with Vitest, CI/CD via GitHub Actions, and code quality enforcement with Husky.
-  [check code](https://github.com/sorcerers-apprentices/eCommerce-Application)
+  [check code](https://github.com/dzichonka/bread-club)
 
-### [Coffee House](https://dzichonka.github.io/CoffeeHouse/)
+### [Coffee House](https://transcendent-chimera-1c5bd5.netlify.app/)
 
 - A two-page presentation website for a coffee shop featuring a slider for promotions and a menu displayed with tabbed categories. Each menu item opens in a detailed modal window, allowing users to view sizes, options, and modifiers. The site is fully responsive, offering a seamless experience across all devices.
   [check code](https://github.com/dzichonka/CoffeeHouse)
@@ -63,10 +85,10 @@
 - A CSS-only meme slider that features smooth animations and a responsive design. The slider showcases a variety of memes, utilizing flexbox for layout and custom styles for a unique presentation. The project emphasizes pure CSS techniques, demonstrating creativity and interactivity without JavaScript.
   [check my code](https://github.com/dzichonka/cssMemeSlider)
 
-### [Coffee House](https://dzichonka.github.io/CoffeeHouse/)
+<!-- ### [Coffee House](https://dzichonka.github.io/CoffeeHouse/)
 
 - A two-page presentation website for a coffee shop featuring a slider for promotions and a menu displayed with tabbed categories. Each menu item opens in a detailed modal window, allowing users to view sizes, options, and modifiers. The site is fully responsive, offering a seamless experience across all devices.
-  [check my code](https://github.com/dzichonka/CoffeeHouse)
+  [check my code](https://github.com/dzichonka/CoffeeHouse) -->
 
 <!-- [Brooklyn Public Library](https://dzichonka.github.io/library/)
 

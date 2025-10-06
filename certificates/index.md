@@ -2,9 +2,15 @@
 
 ## Courses and Certificates
 
+### [RS School - React Course](https://rs.school/#about-school)
+
+React (class & functional components), Redux, Zustand, TanStack Query, Next.js, Tailwind, Vitest (80%+ coverage), Firebase Admin (authentication & database management). Final project: Postman-like web app (team collaboration, GitHub Projects).
+
+- [certificate](RSschool-react.pdf)
+
 ### [RS School - JavaScript / Front-end Course](https://rs.school/#about-school)
 
-Completed an intensive full-stack JavaScript course at RS School, covering TypeScript, React, WebSocket, Canvas, unit testing, and CI/CD. Solved 100+ algorithmic tasks and built 10+ projects, including landing pages and complex e-commerce SPAs. Gained experience in pair programming, live coding, and code reviews.
+TypeScript, React, WebSocket, Canvas, unit testing, CI/CD. Completed 100+ algorithmic tasks and 10+ projects, including landing pages and e-commerce SPAs. Experience in pair programming, live coding, and code reviews.
 
 - [certificate](RSschool-JS.pdf)
 
